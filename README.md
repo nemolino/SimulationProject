@@ -8,4 +8,4 @@ Project for the ***Simulation*** course (2023 edition) taken at *University of M
 * The model implementation in AnyLogic is in the [model](https://github.com/nemolino/SimulationProject/tree/main/model) folder
 * The analysis of the model's results is in the [experimental_analyses](https://github.com/nemolino/SimulationProject/tree/main/experimental_analyses) folder
 
-https://github.com/nemolino/SimulationProject/assets/58593668/84375d58-2a26-4624-ba8c-1b5372fe9545
+![visual_demo](https://github.com/nemolino/SimulationProject/assets/58593668/a4ae41c2-e644-400c-beaf-383d15a062d6)
